@@ -4,7 +4,7 @@
 
 ## Week 1 ✅
 
-### What Are Topics That I Will Coverd In This Challenge
+### What Are Topics That I Will Covered In This Challenge
 - Day 1 : Introduction Myself
 - Day 2 : 
      - What is react ?
