@@ -4,7 +4,7 @@
 
 ## Week 1 ✅
 
-### What Are Topics That I Will Coverd In This Challenge
+### What Are Topics That I Will Covered In This Challenge
 - Day 1 : Introduction Myself
 - Day 2 : 
      - What is react ?
@@ -132,13 +132,12 @@
     - Backend II     
 
 - Day 35 : 
-    - Backend III    
+    - Backend III   
 
-
-## That's All 👍 👍  👍  
- ## Feel Free To Contact 🧑‍🤝‍🧑 :- 
+  ## Feel Free To Contact 🧑‍🤝‍🧑 :- 
    
   ### Email : alalu75666@gmail.com
   ### LinkedIn : https://www.linkedin.com/in/alal-uddin-066444206/
 
-  ## THANK YOU..... 🤗 🤗 🤗 🤗 🤗 
+  ## THANK YOU..... 🤗 🤗 🤗 🤗 🤗    
+ 
